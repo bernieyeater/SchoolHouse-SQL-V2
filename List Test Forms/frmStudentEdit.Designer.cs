@@ -475,7 +475,7 @@
             // cbHourDescription01
             // 
             this.cbHourDescription01.FormattingEnabled = true;
-            this.cbHourDescription01.Location = new System.Drawing.Point(283, 193);
+            this.cbHourDescription01.Location = new System.Drawing.Point(282, 194);
             this.cbHourDescription01.Name = "cbHourDescription01";
             this.cbHourDescription01.Size = new System.Drawing.Size(305, 21);
             this.cbHourDescription01.TabIndex = 82;
